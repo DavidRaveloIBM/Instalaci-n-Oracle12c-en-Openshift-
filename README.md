@@ -1,0 +1,1 @@
+# Instalaci-n-Oracle12c-en-Openshift-
